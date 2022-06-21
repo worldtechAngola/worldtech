@@ -1,2 +1,2 @@
 # worldtech
-💡web site da empresa WorldTech
+web site da empresa WorldTech
